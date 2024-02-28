@@ -1,3 +1,6 @@
+mapvote_stuff/
+scripts/commands/*.gsc
+
 *.iwd
 *.cfg
 scriptdata/waypoints/

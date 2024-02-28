@@ -1,0 +1,1 @@
+- [spawnoverride.gsc](https://github.com/xlabs-mirror/iw4-gsc-scripts/blob/main/scripts/mp/spawnoverride.md)
